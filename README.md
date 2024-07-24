@@ -1,5 +1,5 @@
 ## Datasets - Estatística - PUC Minas
-Datasets usados nos projetos da pós em Estatística pela PUC Minas
+Datasets usados nos projetos da pós-graduação em Estatística pela PUC Minas
 
 | Dataset        | Disciplina | Atividade        |
 |----------------|------------|------------------|
